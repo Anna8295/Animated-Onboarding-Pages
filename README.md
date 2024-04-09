@@ -5,7 +5,7 @@ Welcome to the React Native Animated Onboarding Pages project! This library aims
 
 ## Screenshots
 
-https://github.com/Anna8295/Animated-Onboarding-Pages/blob/main/video/onboarding.mov
+![Animated Onboarding Pages Demo](https://github.com/Anna8295/Animated-Onboarding-Pages/blob/main/video/onboarding.mov)
 
 
 ## Run Locally
